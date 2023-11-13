@@ -1,0 +1,8 @@
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\bin\Debug\caRoboMontador.exe.config
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\bin\Debug\caRoboMontador.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\bin\Debug\caRoboMontador.pdb
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\obj\Debug\caRoboMontador.csproj.AssemblyReference.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\obj\Debug\caRoboMontador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\obj\Debug\caRoboMontador.csproj.CoreCompileInputs.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\obj\Debug\caRoboMontador.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caRoboMontador\obj\Debug\caRoboMontador.pdb
